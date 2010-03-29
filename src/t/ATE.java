@@ -4,7 +4,8 @@ public class ATE {
 	public static void main(final String[] args) {
 		final int a;
 		final long abc;
-		System.err.println("daniel");
-		System.err.println("syserr4");
+		final String str;
+		System.err.println("toma essa ryuuga!");
+		System.err.println("toma de novo!");
 	}
 }
