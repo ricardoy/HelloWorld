@@ -7,5 +7,6 @@ public class ATE {
 		
 		System.out.println("outro teste");
 		System.out.println("outro teste2");
+		System.out.println("outro teste3");
 	}
 }
